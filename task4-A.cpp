@@ -16,5 +16,4 @@ int main(){
 
     cout<<"Age: "<<age<<", Name: "<<name<<endl;
 
-    return 0;
 }
